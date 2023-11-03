@@ -4,4 +4,6 @@ Testing merge function
 
 testing pull function
 
-testing
+git pull
+
+git branches
