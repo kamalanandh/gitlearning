@@ -1,6 +1,3 @@
 this is sample file for git learning - new
-New entry
 
-git branches
-
-test changes
+git main branch
